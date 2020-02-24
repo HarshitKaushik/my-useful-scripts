@@ -1,0 +1,449 @@
+VR and the Problem of How We Talk About Tech - https://medium.com/s/2069/vr-and-the-problem-of-how-we-talk-about-tech-d8a27e812c74
+In the Future, Senior Citizens Will Play Video Games All Day - https://medium.com/s/2069/in-the-future-senior-citizens-will-play-video-games-all-day-23794b532447
+The End of Affordable Travel - https://medium.com/s/2069/the-end-of-affordable-travel-2c6301d2073d
+How to Find Hidden Cameras in Your Airbnb, and Anywhere Else - https://medium.com/fast-company/how-to-find-hidden-cameras-in-your-airbnb-and-anywhere-else-d1de793f7ddc
+TikTok Is a Wake-Up Call to Silicon Valley - https://onezero.medium.com/tiktok-is-a-wake-up-call-to-silicon-valley-a286d698c7e6
+Stop trying to invent the next Facebook or Amazon - https://medium.com/swlh/stop-trying-to-invent-the-next-facebook-or-amazon-4c4f9f396978
+Leadership Essentials: Six Key Habits to Living and Leading at Your Best - https://medium.com/better-humans/leadership-essentials-six-key-habits-to-living-and-leading-at-your-best-da74700635c
+George Orwell’s Six Rules For Great Writing - https://medium.com/personal-growth/george-orwells-six-rules-for-great-writing-4db6d31ff136
+The TV Subscriptions You’ll Need to Watch Your Favorite Shows - https://onezero.medium.com/the-tv-subscriptions-youll-need-to-watch-your-favorite-shows-9357eb1245fa
+What's New In Angular 8.0 And How To Upgrade To Angular 8 - https://www.c-sharpcorner.com/article/angular-8-0-whats-new-and-how-to-upgrade/
+44 quick tips to fine-tune Angular performance? - https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
+Flipkart takes on Amazon, Netflix with free video streaming service - https://www.livemint.com/industry/retail/flipkart-takes-on-amazon-netflix-with-free-video-streaming-service-1564999313118.html
+How to write a killer Software Engineering résumé - https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/
+How to understand your program’s memory - https://www.freecodecamp.org/news/understand-your-programs-memory-92431fa8c6b/
+Dear Agile, I'm tired of pretending - https://medium.com/columbus-egg/dear-agile-im-tired-of-pretending-d39ab6a12003
+Flutter: the good, the bad and the ugly - https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9
+Google IO 2019 Tech Keynote in 5 minutes - https://blog.usejournal.com/google-io-2019-tech-keynote-in-5-minutes-flutter-android-firebase-machinelearning-mlkit-8b248a7e0a82
+Optimizing Events handling in Angular - https://blog.angularindepth.com/optimizing-events-handling-in-angular-dce9fbe4dac5
+A New System for Designing Motion With Both Sketch and Figma - https://medium.com/google-design/aeux-f79e06e01594
+Things You Learn After 1 Year of Day Trading for a Living - https://blog.usejournal.com/things-you-learn-after-1-year-of-day-trading-for-a-living-a97bbc8d19fa
+The 5 Basic Statistics Concepts Data Scientists Need to Know - https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
+Design patterns for modern web APIs - https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
+How to Use Typescript with React and Redux - https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76
+How (and why) you should use Typescript with Node and Express. - https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d
+If you like to travel, let Python help you scrape the best fares! - A simple and customizable project with Python and Selenium, that will search for flights and send the prices directly to your email! - https://towardsdatascience.com/if-you-like-to-travel-let-python-help-you-scrape-the-best-fares-5a1f26213086
+A detailed guide on developing Android apps using the Clean Architecture pattern - https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029
+Audio AI: isolating vocals from stereo music using Convolutional Neural Networks - https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785
+Tools to run Python on Android - https://towardsdatascience.com/tools-to-run-python-on-android-9060663972b4
+What’s new on iOS 12.2 for Progressive Web Apps - https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945
+Adversial Robustness - https://towardsdatascience.com/adversarial-robustness-935acc39a01a
+Introducing Mercury OS - https://uxdesign.cc/introducing-mercury-os-f4de45a04289
+How I changed my life with one Medium post - https://uxdesign.cc/how-i-changed-my-life-with-one-medium-post-c7543454d0bd
+Delightful User Interfaces: Easter Eggs - https://medium.com/@NetflixTechBlog/delightful-user-interfaces-easter-eggs-ae5e8107d09b
+GitHub stars won’t pay your rent - https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed
+Why our team cancelled our move to microservices - https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952
+5 Bad Habits of Absolutely Ineffective Programmers. - https://towardsdatascience.com/5-bad-habits-of-absolutely-ineffective-programmers-e74b74add9ca
+The Differences Between a Junior, Mid-Level, and Senior Developer - https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d
+All the best engineering advice I stole from non-technical people - https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f
+I wrote a script to whatsapp my parents every morning in just 20 lines of python code - https://medium.com/better-programming/i-wrote-a-script-to-whatsapp-my-parents-every-morning-in-just-20-lines-of-python-code-5d203c3b36c1
+Object-Oriented Programming — The Trillion Dollar Disaster - https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7
+Functional Programming? Don’t Even Bother, It’s a Silly Toy - https://medium.com/better-programming/fp-toy-7f52ea0a947e
+Announcing React India 2019 Speakers - https://medium.com/react-india/announcing-react-india-2019-speakers-47e2394e04d
+Artwork Personalization at Netflix - https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76
+When a rewrite isn’t: rebuilding Slack on the desktop - https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4
+The Complete Introduction to React - https://medium.com/@samerbuna/the-complete-introduction-to-react-1c25e6f32027
+Bringing Rich Experiences to Memory-Constrained TV Devices - https://medium.com/netflix-techblog/bringing-rich-experiences-to-memory-constrained-tv-devices-6de771eabb16
+China Has Started a Grand Experiment in AI Education. It Could Reshape How the World Learns. - https://medium.com/mit-technology-review/china-has-started-a-grand-experiment-in-ai-education-it-could-reshape-how-the-world-learns-c771f5980deb
+All you need to know about Ivy, The new Angular engine! - https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf
+How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play - https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b
+10 Books Every Programmer Should Read - https://medium.com/swlh/10-books-every-programmer-should-read-6e5b7547e8b5
+Young adults are experiencing hearing loss and experts say earbuds are to blame. But there are ways to jam out safely. - https://elemental.medium.com/something-you-dont-want-to-hear-about-earbuds-d554e85696b5
+Can the Brave Browser Fix the Internet? - https://onezero.medium.com/can-the-brave-browser-fix-the-internet-61ca6dbcc3c9
+The Most in Demand Skills for Data Scientists - https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db
+The One Programming Language to Rule Them All - https://medium.com/better-programming/the-one-programming-language-to-rule-them-all-620366df2805
+What Really Happens to AirPods When They Die - https://onezero.medium.com/what-really-happens-to-airpods-when-they-die-9ba2fe97b346
+Land of the “Super Founders“— A Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups - https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45
+Bezos: A CEO Who Can Write - https://mondaynote.com/bezos-a-ceo-who-can-write-2f368ee36599
+What is Jobs to be Done (JTBD)? - https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
+Primer for Learning Google Colab - https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6
+The Future of AI Is in Africa - https://medium.com/mit-technology-review/the-future-of-ai-is-in-africa-e3bbb50662c7
+Testing in React with Jest and Enzyme: An Introduction - https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8
+Why Are We All So Preoccupied With Forever? - https://psiloveyou.xyz/why-are-we-all-so-preoccupied-with-forever-7d44ce3f902a
+On how I acknowledge human based bias and how to handle it - https://towardsdatascience.com/on-how-i-acknowledge-human-based-bias-and-how-to-handle-it-933479a623fa
+Python: 7 Important Reasons Why You Should Use Python - https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b
+What I Learned Co-Founding Dribbble - https://medium.com/dribbble/what-i-learned-co-founding-dribbble-8680f6816e3d
+12 Literary Journals That Publish Multiple Genres — Paying markets - https://curiosityneverkilledthewriter.com/12-literary-journals-that-publish-multiple-genres-paying-markets-ed88246f1ad4
+Learn Enough Docker to be Useful - https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
+Breaking CAPTCHA Using Machine Learning in 0.05 Seconds - https://medium.com/towards-artificial-intelligence/breaking-captcha-using-machine-learning-in-0-05-seconds-9feefb997694
+CycleGANs to Create Computer-Generated Art - https://towardsdatascience.com/cyclegans-to-create-computer-generated-art-161082601709
+JavaScript: An In-Depth Look at Prototypal Inheritance - https://medium.com/better-programming/javascript-prototypal-inheritance-in-depth-fb46ea20b9cd
+Everything You Wanted To Know About package-lock.json But Were Too Afraid To Ask - https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
+What We Learned Rebuilding Our Site From Scratch - https://medium.com/javascript-scene/what-we-learned-rebuilding-our-site-from-scratch-52a4af08b6ac
+Turning the frustration of a mobile game into a reverse engineering training - https://medium.com/@xplodwild/turning-the-frustration-of-a-mobile-game-into-a-reverse-engineering-training-a9887043efdf
+[From Android dev] Flutter looks good, but is painful. Here are my frustrations with it. - https://medium.com/@bernaferrari/from-android-dev-flutter-looks-good-but-is-painful-here-are-my-frustrations-with-it-81b4bbe739f8
+Developers are more than just code monkeys - https://medium.com/better-programming/developers-are-more-than-just-code-monkeys-52248ec9d874
+Why Boredom Is So Powerful in Your Life? - https://medium.com/personal-growth/why-boredom-is-powerful-but-being-bored-is-not-9f22e5daf4c
+Why ReasonML? (Part 1) - https://medium.com/@johnhaley81/why-reasonml-part-1-8a975bbcf5f7
+9 Simple Strategies to Read More Books: How I Read 150+ Books a Year - https://medium.com/@dralibinazir/9-simple-strategies-for-reading-more-books-how-i-read-130-books-a-year-554ef80006f9
+In Defense of The Small Social Network - https://onezero.medium.com/in-defense-of-the-small-social-network-5a90bc4d5d62
+Don’t Start With an MVP - https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18
+Time Series Forecasting with Prophet - https://towardsdatascience.com/time-series-forecasting-with-prophet-54f2ac5e722e
+Role of Data Science in Artificial Intelligence - https://towardsdatascience.com/role-of-data-science-in-artificial-intelligence-950efedd2579
+How To Write Killer Opening Lines: 6 Principles the Best Writers Know - https://medium.com/better-marketing/how-to-write-killer-opening-lines-6-principles-the-best-writers-know-2cbdc8bbf1af
+Android Smartphone usage Analysis in R to reduce Phone Addiction - https://towardsdatascience.com/android-smartphone-usage-analysis-in-r-to-reduce-phone-addiction-135bd0084e41
+The Rise and Fall of Visual Basic - https://medium.com/young-coder/the-rise-and-fall-of-visual-basic-f422252349a6
+Let’s Talk About How to Build a Brand - https://medium.com/s/how-to-build-a-brand/lets-talk-about-how-to-build-a-brand-543b2dfbc4f5
+This Is What It Takes to Go from $0 to $1 Million in Less Than One Year - https://entrepreneurshandbook.co/this-is-what-it-takes-to-go-from-0-to-1-million-in-less-than-one-year-7ac31bc39eef
+JavaScript traits: the clean way to modify global prototypes - https://itnext.io/straits-9ef2b9a563cd
+Build a Responsive, Modern Dashboard Layout With CSS Grid and Flexbox - https://medium.com/better-programming/build-a-responsive-modern-dashboard-layout-with-css-grid-and-flexbox-bd343776a97e
+Smart interaction design is the proper way to solve the learning problem in AI - https://towardsdatascience.com/smart-interaction-design-is-the-proper-way-to-solve-the-learning-problem-in-ai-bdf989f433cb
+Only Intrinsic Motivation Lasts - https://medium.com/@dvassallo/only-intrinsic-motivation-lasts-92c0497cf97c
+Introduction to Markov chains - https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab
+How Did AirBnB’s Sales Process Change With Rapid Growth? - https://medium.com/better-marketing/how-did-airbnbs-sales-process-change-with-rapid-growth-6079482057fb
+Incognito Mode Won’t Keep Your Browsing Private. Do This Instead. - https://medium.com/fast-company/incognito-mode-wont-keep-your-browsing-private-do-this-instead-dd64bc812010
+The Existential Risks that Keep Me (And Podcast Guests) Up at Night - https://medium.com/hackernoon/the-existential-risks-that-keep-me-and-podcast-guests-up-at-night-e4cd7c4b920f
+A Brief History of Decentralized Computing - https://medium.com/the-challenge/a-brief-history-of-decentralized-computing-d0d665783bcf
+The Ultimate Guide to Becoming a Great Designer (Part 1 of 3) - https://modus.medium.com/the-ultimate-guide-to-becoming-a-great-designer-part-1-of-3-88f627233f48
+Multi-platform apps: are we there yet? | MEWS Systems - https://blog.reactiveconf.com/multi-platform-apps-are-we-there-yet-mews-systems-792c19828b28
+Competition from virtual employees? Why Customer Service Employees shouldn’t be afraid of chatbots - https://towardsdatascience.com/competition-from-virtual-employees-why-customer-service-employees-shouldnt-be-afraid-of-chatbots-d08c92e38072
+Customer Call Centers: A UXer’s Secret Weapon - https://medium.com/@NetflixTechBlog/customer-call-centers-a-uxers-secret-weapon-30ded93c5c99
+The worst volume control UI in the world - https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950
+Tools to look under the hood - https://uxdesign.cc/tools-to-look-under-the-hood-4710db3023b3
+Mom Was a Brown-Skinned Asian Migrant. She Was Also Racist. Now What? - https://humanparts.medium.com/my-mom-was-a-brown-skinned-foreign-accented-asian-immigrant-she-was-also-a-racist-now-what-90496113e971
+A Failed Effort to Get Paid for an Open Source Project - https://medium.com/swlh/a-failed-effort-to-get-paid-for-an-open-source-project-bd7fa4658a1e
+The 10 Statistical Techniques Data Scientists Need to Master - https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7
+36 Amazing Python Open Source Projects (v.2019) - https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450
+When Algorithms Mess Up, the Nearest Human Gets the Blame - https://medium.com/mit-technology-review/when-algorithms-mess-up-the-nearest-human-gets-the-blame-194d87d60559
+17 Podcasts Every Entrepreneur Should Listen To - https://medium.com/swlh/17-podcasts-every-entrepreneur-should-listen-to-5fad41a55156
+Human-Like Machine Hearing With AI (1/3) - https://towardsdatascience.com/human-like-machine-hearing-with-ai-1-3-a5713af6e2f8
+A React job interview — recruiter perspective. - https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16
+You can now speak using someone else’s voice with Deep Learning - https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b
+Getting started with Git and GitHub: the complete beginner’s guide - https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+10 Git Commands You Should Know - https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c
+Simple Introduction to Convolutional Neural Networks - https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
+An open letter to Stewart Butterfield: Why Slack will never replace email - https://medium.com/swlh/why-slack-will-never-replace-email-873a20856716
+Being a Data Scientist does not make you a Software Engineer! - https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372
+Generate Javascript static types from GraphQL: TypeScript and Flow - https://medium.com/atheros/generate-javascript-static-types-from-graphql-typescript-and-flow-4d28b46b8d13
+We Don’t Need Social Media - https://onezero.medium.com/we-dont-need-social-media-53d5455f4f6b
+The Truth About Finding a Satisfying Career - https://forge.medium.com/the-truth-about-finding-a-satisfying-career-d2314d321403
+Soft Skills Every Programmer or Data Scientist Should Master - https://medium.com/better-programming/soft-skills-every-programmer-or-data-scientist-should-master-e09742b34f38
+How to get a Harvard-level education in 15 minutes per day (or less) - https://medium.com/the-ascent/how-to-get-a-harvard-level-education-in-15-minutes-per-day-or-less-8eaac3fc665a
+10 Tips for Taking Feedback Like a Pro - https://modus.medium.com/ten-tips-on-how-to-take-feedback-like-a-pro-be6c435c2e7c
+We made $1,052,000 in 2018 selling UI Tools. Here is what we learned. - https://medium.com/free-code-camp/we-made-1-052-000-in-2018-selling-ui-tools-here-is-what-we-learned-38920d86a296
+Machine Learning Algorithms In Layman’s Terms, Part 1 - https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b
+Data Analysis of 10.000 AI Startups - https://towardsdatascience.com/data-analysis-of-10-000-ai-startups-5ea7e957e90
+The Misconceptions of Agile - https://medium.com/better-programming/the-misconceptions-of-agile-5dfe3dd567b5
+Working with APIs using Flask, Flask-RESTPlus and Swagger UI - https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f
+Your Unpredictable Daily Schedule Might Be Wrecking Your Estimates - https://towardsdatascience.com/your-unpredictable-daily-schedule-might-be-wrecking-your-estimates-efa6e37d9d0f
+Data-Science Recruitment — Why You May Be Doing It Wrong - https://towardsdatascience.com/data-science-recruitment-why-you-may-be-doing-it-wrong-b8e9c7b6dae5
+My Journey From Commerce To Data Science - https://towardsdatascience.com/my-journey-from-commerce-to-data-science-c2932d09f6da
+Data-Science Recruitment — Why You May Be Doing It Wrong - https://towardsdatascience.com/data-science-recruitment-why-you-may-be-doing-it-wrong-b8e9c7b6dae5
+Can Virtual Assistants Gain Real Intelligence? - https://onezero.medium.com/facing-the-future-1962abacf3b1
+Creating Bots That Talk Like Humans With Natural Language Processing - https://towardsdatascience.com/creating-bots-that-sound-like-humans-with-natural-language-processing-d9581905de
+Build Your Own Video Chat with Vue, WebRTC, SocketIO, Node & Redis - https://levelup.gitconnected.com/build-your-own-video-chat-with-vue-webrtc-socketio-node-redis-eb51b78f9f55
+The Emerging Dangers of Vaping - https://elemental.medium.com/the-emerging-dangers-of-vaping-c66676f5253a
+Most Things You Worry About Will Never Actually Happen - https://elemental.medium.com/most-things-you-worry-about-will-never-actually-happen-83bff850c5f9
+Language Translation with RNNs - https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571
+AI Gets Creative Thanks To GANs Innovations - https://towardsdatascience.com/ai-gets-creative-thanks-to-gans-innovations-db81462ea4b2
+Huawei Needs to Build the Operating System No One Thinks It Can - https://onezero.medium.com/how-huawei-could-destroy-the-apple-google-smartphone-duopoly-3242b1b4aa1
+Preserving Memory in Stationary Time Series - https://towardsdatascience.com/preserving-memory-in-stationary-time-series-6842f7581800
+A Case for Nuclear: Bridging the Route to Renewables with Low-Carbon Energy - https://towardsdatascience.com/a-case-for-nuclear-bridging-the-route-to-renewables-with-low-carbon-energy-f0ad069a37ce
+Performing Classification in TensorFlow - https://towardsdatascience.com/performing-classification-in-tensorflow-95368fde289c
+10 Paying Markets for Mystery and Crime Stories - https://curiosityneverkilledthewriter.com/10-paying-markets-for-mystery-and-crime-stories-32640cf87186
+Why You Should Write on Medium - https://medium.com/swlh/why-you-should-write-on-medium-cb5083f784e9
+Jony Ive’s Mistakes: When Beautiful Design Is Bad Design - https://onezero.medium.com/jony-ives-errors-why-ugly-isn-t-always-bad-design-but-beautiful-sometimes-is-9c5fde886263
+30 Things I Wish I Knew When I Started Programming - https://medium.com/better-programming/30-short-things-i-wish-i-knew-all-this-when-i-started-programming-b17667e3df0c
+How I created over 100,000 labeled LEGO training images - https://towardsdatascience.com/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef
+We Analysed the 527,350 Facebook Ads placed by the US Presidential Candidates. Here Are The Results. - https://medium.com/applied-data-science/56-070-165-facebook-ad-spend-of-us-presidential-candidates-broken-down-by-age-and-gender-2dcc32fe2c02
+Brownian Motion in Financial Markets - https://medium.com/cantors-paradise/brownian-motion-in-financial-markets-ea5f02204b14
+Should Data Scientists Be Licensed? - https://towardsdatascience.com/should-data-scientists-be-licensed-ce8b17911670
+Three Ways to Define Functions in JavaScript - https://medium.com/better-programming/three-ways-to-define-functions-in-javascript-750a908e51d9
+The Servers Are Burning - https://medium.com/logic-magazine/the-servers-are-burning-ead14e5ad0e2
+A Better Alternative to Screen-sharing for Enterprise Customer Support - https://blog.sessionstack.com/a-better-alternative-to-screen-sharing-for-enterprise-customer-support-99b5f204ba76
+Meet the school with no classes, no classrooms and no curriculum - https://medium.com/pi-top/meet-the-school-with-no-classes-no-classrooms-and-no-curriculum-7cc7be517cef
+Choosing a First Programming Language for Kids and Beginners - https://medium.com/young-coder/choosing-a-first-programming-language-for-kids-and-beginners-faf7059bbd93
+How to Teach Journalism in 2019 - https://medium.com/s/story/how-to-teach-journalism-in-2019-aa33773dfcd9
+Will It Ever Be Possible to Understand the Human Brain? - https://onezero.medium.com/will-it-ever-be-possible-to-understand-the-human-brain-718c8c92722d
+Mathematics Waits For Everyone, But Few Wait For Mathematics - https://medium.com/q-e-d/mathematics-waits-for-everyone-but-few-wait-for-mathematics-7095c86cda70
+Data Engineering with Python, Django, and PostgreSQL - https://towardsdatascience.com/data-engineering-with-python-django-and-postgresql-99409492769
+Chelsea Manning’s Resistance Is Aimed At Abolishing The Grand Jury Once And For All - https://medium.com/@kevin_33184/chelsea-mannings-resistance-brings-u-s-closer-to-ending-the-grand-jury-7b9d3ad6537a
+State of Data Science & Machine Learning - https://towardsdatascience.com/state-of-data-science-machine-learning-e8bdd4f21b6b
+‘Love’ Is the Most Common Word in Death Row Last Statements - https://medium.com/s/story/love-is-the-most-common-word-in-death-row-last-statements-f15ab0e8ad16
+Anti-Abortion Lawmakers Have No Idea How Women’s Bodies Work - https://gen.medium.com/anti-abortion-lawmakers-have-no-idea-how-womens-bodies-work-3ebea9fd6015
+Video Games as a Perfect Playground for Artificial Intelligence - https://towardsdatascience.com/video-games-as-a-perfect-playground-for-artificial-intelligence-3b4ebeea36ce
+The Challenges of Parenting a Profoundly Gifted Child - https://medium.com/s/story/im-the-mom-of-a-profoundly-gifted-daughter-7f69376624f
+Rendezvous Architecture for Data Science in Production - https://towardsdatascience.com/rendezvous-architecture-for-data-science-in-production-79c4d48f12b
+Why the 21st Century Will Be Defined by Biology - https://onezero.medium.com/why-the-21st-century-will-be-defined-by-biology-fdb4da2edfd5
+The 3 Safe and Reliable Ways to Handle User Impersonation During Customer Support - https://blog.sessionstack.com/the-3-safe-and-reliable-ways-to-handle-user-impersonation-during-customer-support-4d3f446f0e5d
+Speech Emotion Recognition with Convolutional Neural Network - https://towardsdatascience.com/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3
+The Anatomy of 200 Books - https://towardsdatascience.com/the-anatomy-of-200-books-c09ca91fd084
+Trees and Carbon Dioxide: What Is the True Connection? - https://medium.com/the-philipendium/trees-and-carbon-dioxide-what-is-the-truth-c7f8c9d12602
+A Design Thinking Mindset for Data Science - https://towardsdatascience.com/a-design-thinking-mindset-for-data-science-f94f1e27f90
+The Unexpected Health Benefits of Social Media - https://elemental.medium.com/the-unexpected-health-benefits-of-social-media-e345032668b9
+Why is Learning Chinese So Hard? - https://medium.com/@ItsPhilipChang/why-is-learning-chinese-so-hard-56a927dd4063
+DeepMind Combines Logic and Neural Networks to Extract Rules from Noisy Data - https://towardsdatascience.com/deepmind-combines-logic-and-neural-networks-to-extract-rules-from-noisy-data-2fbd0f6edfb7
+The Perils of Pursuing a PhD in Philosophy - https://medium.com/s/story/a-phd-in-philosophy-was-not-worth-it-4f87b8b109db
+After 18 Years in the Police Force, I Still Struggle With PTSD - https://medium.com/s/story/my-battle-with-ptsd-614ff8b2aa2a
+A novice’s guide to learning to code with CS50 - https://blog.usejournal.com/a-novices-guide-to-learning-to-code-with-cs50-d55a050fc57c
+Gun Violence Isn’t a Problem—it’s actually 5 Problems, with Different Solutions - https://medium.com/@thomdunn/gun-violence-isnt-a-problem-it-s-actually-five-problems-with-different-solutions-63f58e93da08
+State Your Wants & Needs Clearly - https://medium.com/@krisgage/state-your-wants-needs-clearly-e4abfdfd5af7
+The Complete Guide to Effective Reading - https://medium.com/@maartenvandoorn/the-complete-guide-to-effective-reading-fc1835937757
+5 Paying Markets for Short Historical Fiction and Western Short Stories - https://curiosityneverkilledthewriter.com/5-paying-markets-for-short-historical-fiction-and-western-short-stories-85d4bc48479b
+Beginner’s Guide to Machine Learning with Python - https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
+From amateur writing on medium, to a book deal (part 1 of 4) - https://psiloveyou.xyz/from-amateur-writing-on-medium-to-a-book-deal-8edfe927a877
+By the End of This Century, the Global Population Will Start to Shrink - https://medium.com/s/story/by-the-end-of-this-century-the-global-population-will-start-to-shrink-2f606c1ef088
+How did Jeffrey Epstein acquire billions of dollars? - https://medium.com/@jaltucher/how-did-jeffrey-epstein-acquire-billions-of-dollars-d815c0a40a56
+Want to be a better designer? Stay humble - https://uxdesign.cc/want-to-be-a-better-designer-stay-humble-66632840e0c3
+Build a Command-Line Real-Time Chat App using SocketIO - https://blog.bitsrc.io/build-a-command-line-real-time-chat-app-using-socketio-f2e3553d6228
+Here’s how we can break up Big Tech - https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c
+An AI App That ‘Undressed’ Women Shows How Deepfakes Harm the Most Vulnerable - https://medium.com/mit-technology-review/an-ai-app-that-undressed-women-shows-how-deepfakes-harm-the-most-vulnerable-8513c6707150
+5 Dumb Words That May Have Cost Mark Zuckerberg $34 Billion — and How Not to Make the Same Mistake - https://medium.com/inc./5-dumb-words-that-may-have-cost-mark-zuckerberg-34-billion-and-how-not-to-make-the-same-mistake-9acf71e06ed6
+How Artificial Intelligence Is Tracking Sex Traffickers - https://onezero.medium.com/how-artificial-intelligence-is-tracking-sex-traffickers-276dcc025ecd
+How I Made $8,000 per Month Podcasting, and Why You Probably Don’t Want To - https://blog.usejournal.com/how-i-made-8-000-per-month-podcasting-and-why-you-probably-dont-want-to-855966a557aa
+Top 10 Best Deep Learning Frameworks in 2019 - https://towardsdatascience.com/top-10-best-deep-learning-frameworks-in-2019-5ccb90ea6de
+The Bad Apple Theory - https://medium.com/s/accident/the-bad-apple-theory-e76ced580804
+I Left the Ad Industry Because Our Use of Data Tracking Terrified Me - https://medium.com/fast-company/i-left-the-ad-industry-because-our-use-of-data-tracking-terrified-me-97c9489ccafa
+Data Scientists Versus Statisticians - https://medium.com/@ODSC/data-scientists-versus-statisticians-8ea146b7a47f
+22 Miraculous Tools for React Developers in 2019 - https://medium.com/better-programming/22-miraculous-tools-for-react-developers-in-2019-7d72054e2306
+How to Learn Anything - https://medium.com/@duncanr/how-to-learn-anything-296d37ae261d
+What Is Section 230 and Why Does Donald Trump Want to Change It? - https://medium.com/mit-technology-review/what-is-section-230-and-why-does-donald-trump-want-to-change-it-1caa1d14f600
+The Books That Saved My Life in Prison - https://medium.com/s/library-stories/the-books-that-saved-my-life-in-prison-d0c5b8f86f34
+Convolutional Neural Network - https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529
+Data Structures in JavaScript - https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c
+Why I Quit Teaching - https://medium.com/age-of-awareness/why-i-quit-teaching-91bdcae63273
+This Ain’t Disney: A practical guide to CSS transitions and animations - https://blog.prototypr.io/this-aint-disney-a-practical-guide-to-css-transitions-and-animations-a8b87e7c5531
+Wrongfully Convicted Isaac Wright Jr Returns To The Same Courtroom As An Attorney - https://medium.com/@tjbdaily/wrongfully-convicted-isaac-wright-jr-returns-to-the-same-courtroom-as-an-attorney-985b40c96ed8
+Build Your First Open Source Python Project - https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7
+After My Freshman Year at Cambridge, I Learned The Truth About Top Universities - https://blog.usejournal.com/after-my-freshman-year-at-cambridge-i-learned-the-truth-about-top-universities-693268764949
+50 THINGS I DID BEFORE I TURNED 50 - https://medium.com/@jaltucher/50-things-i-did-before-i-turned-50-cfe3410b76f9
+How I started with React — challenges and lessons - https://medium.com/@palade_radu/how-i-started-with-react-challenges-and-lessons-2aa2989316f4
+The Plight of the American Teacher - https://medium.com/swlh/the-plight-of-the-american-teacher-6f95b90212de
+Janet Reno’s Sister Owes a Florida Developer $4 Million. She Has Zero Intention of Paying. - https://medium.com/s/powertrip/janet-renos-sister-owes-a-florida-developer-5-million-she-has-zero-intention-of-paying-d1e667e84096
+100 Books a Year? Bad Idea - https://medium.com/skilluped/100-books-a-year-bad-idea-7548c17c3686
+Twitter’s Redesign Isn’t About You - https://onezero.medium.com/twitters-redesign-isn-t-about-you-3dd710b0f9e0
+How-To: Spring Boot 2 Web Application with Multiple Mongo Repositories and Kotlin - https://codeburst.io/how-to-spring-boot-2-web-application-with-multiple-mongo-repositories-and-kotlin-49016deab0e9
+Top Programming Languages to Learn in 2019 - https://levelup.gitconnected.com/top-programming-languages-to-learn-in-2019-e1cad7ced3fb
+131 Actionable Ideas from Ten Books I Wish I Had Read Ages Ago - https://medium.com/the-mission/131-actionable-ideas-from-ten-books-i-wish-i-had-read-ages-ago-d751c17402de
+Google Is Tightening Its Grip on Your Website - https://onezero.medium.com/google-is-tightening-its-iron-grip-on-your-website-27e06b3150e0
+The AirPod Connect Sound Is Beautiful - https://onezero.medium.com/the-airpod-connect-sound-is-beautiful-8283f16cc4ab
+My Friend Posted a Violent Manifesto on Facebook - https://onezero.medium.com/my-friend-posted-a-violent-manifesto-on-facebook-80e82c0d0c4e
+The Nightmare of Valve’s self-organizing “utopia” - https://medium.com/dunia-media/the-nightmare-of-valves-self-organizing-utopia-6d32d329ecdb
+Becoming a Level 3.0 Data Scientist - https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3
+How Books and Television Affect Your Brain Differently, According to Science - https://medium.com/@melissachu/how-books-and-television-affect-your-brain-differently-according-to-science-34ca8be1493
+Terms You Need to Know as a JS Developer - https://medium.com/better-programming/terms-you-need-to-know-as-js-developer-28c2adfd2bb5
+The Power of Anti-Goals - https://medium.com/@awilkinson/the-power-of-anti-goals-c38f5f46d23c
+Pump You Up: The Enduring Power of Protein Powder - https://elemental.medium.com/pump-you-up-the-enduring-power-of-protein-powder-bcaf31610633
+Yuval Noah Harari and Fei-Fei Li on Artificial Intelligence: Four Questions that Impact All of Us - https://towardsdatascience.com/yuval-noah-harari-and-fei-fei-li-on-ai-90d9a8686cc5
+The Fan Who Sued Taylor Swift - https://medium.com/s/story/the-fan-who-sued-taylor-swift-6c352e325f0d
+The 5 Ways I Saved My Failing Business and Made My First Million - https://blog.usejournal.com/the-5-ways-i-saved-my-failing-business-and-made-my-first-million-87cf488f705e
+This is Why you Never End up Hiring Good Developers. - https://medium.com/swlh/this-is-why-you-never-end-up-hiring-good-developers-13352c795bf3
+Top 5 Contemporary Software Engineering Books - https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83
+Waking Up Is Hard to Do - https://medium.com/@kevinroose/waking-up-is-hard-to-do-c720dc9617a8
+5 Reasons Why Short Stories Are Far From Dead - https://writingcooperative.com/5-reasons-why-short-stories-are-far-from-dead-fdf689f6af7
+The Future of Humanity Is Interplanetary - https://medium.com/s/2069/the-future-of-humanity-is-interplanetary-e9bd32de2f5f
+The Logic of Risk Taking - https://medium.com/incerto/the-logic-of-risk-taking-107bf41029d3
+Learning Python: From Zero to Hero - https://medium.com/better-programming/learning-python-from-zero-to-hero-e1b3e912217c
+Audio Classification using FastAI and On-the-Fly Frequency Transforms - https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89
+81 staggering lines in literature. - https://medium.com/@austincoleschafer/81-staggering-lines-in-literature-ad51ffa4d782
+The #1 Thing All Happily Married Couples Have in Common - https://psiloveyou.xyz/the-1-thing-all-happily-married-couples-have-in-common-b8fabbe53bbe
+Fifty years ago, a teenager wrote the best selling young adult novel of all time - https://timeline.com/outsiders-fifty-years-teenager-9a06e2dc91ba
+How a Reading Workflow Saves Me Time and Anxiety - https://medium.com/@jerrybrito/how-a-reading-workflow-saves-me-time-and-anxiety-2ea10b40ec71
+Learn the Basics of Git in Under 10 Minutes - https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+Most VR Is Total Bullshit - https://gen.medium.com/most-vr-is-total-bullshit-81a08431df38
+Is It Illegal to Share Your Netflix Password? - https://onezero.medium.com/is-it-illegal-to-share-your-netflix-password-be464f86693f
+Detailing the Thoughtfulness of Rupi Kaur’s Poetry - https://medium.com/through-the-window/detailing-the-thoughtfulness-of-rupi-kaurs-poetry-229d6a788bbd
+73 Mind-Blowing Implications of Driverless Cars and Truck - https://medium.com/@DonotInnovate/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d
+The Web 3.0: The Web Transition Is Coming - https://medium.com/hackernoon/the-web-3-0-the-web-transition-is-coming-892108fd0d
+The Chinese Buddhist Billionaire Who Wants to Fix Your Brain - https://onezero.medium.com/the-chinese-buddhist-billionaire-who-wants-to-fix-your-brain-4a99d14428ba
+9 Useful Browser Extensions for Developers — 2020 edition - https://medium.com/better-programming/9-productivity-browser-extensions-for-developers-2020-edition-eb84cda6f038
+The Huawei Sanction Might Just Pop the Tech Bubble - https://onezero.medium.com/the-huawei-sanction-might-just-pop-the-tech-bubble-f7e800e3174
+To the Husband I Lost at 24 - https://humanparts.medium.com/forever-and-ever-losing-my-husband-at-24-800af5a6c53d
+Is Marijuana Addictive? - https://elemental.medium.com/is-marijuana-addictive-ab3a99b4276e
+In Ten Years: The Future of AI and ML - https://medium.com/foursquare-direct/in-ten-years-the-future-of-ai-and-ml-fa68a527f378
+Walmart is using AI to Detect Checkout Theft in 1,000 stores - https://medium.com/futuresin/walmart-is-using-ai-to-detect-checkout-theft-in-1-000-stores-b202bd624ee8
+What If Reality Isn’t Real? - https://medium.com/s/story/what-if-reality-isnt-real-1161d7b12256
+What Will Bitcoin Look Like in Twenty Years? - https://medium.com/hackernoon/what-will-bitcoin-look-like-in-twenty-years-7e75481a798c
+Programming Languages of the Future - https://towardsdatascience.com/programming-languages-of-the-future-792a8af879f9
+On the Tesla Model 3 - https://blog.usejournal.com/on-the-tesla-model-3-6b5acabd8ff5
+A Simple Progressive Web App Tutorial - https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605
+Why I Deleted All My Social Media Accounts - https://humanparts.medium.com/why-i-deleted-all-my-social-media-accounts-8847726863
+IoT + Machine Learning is Going to Change the World - https://towardsdatascience.com/iot-machine-learning-is-going-to-change-the-world-7c4e0cd7ac32
+How to effortlessly create a website for free with GitHub Pages (even if you don’t know what you’re doing) - https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
+Nike and Boeing Are Paying Sci-Fi Writers to Predict Their Futures - https://onezero.medium.com/nike-and-boeing-are-paying-sci-fi-writers-to-predict-their-futures-fdc4b6165fa4
+How the World’s Biggest Brewer Killed the Craft Beer Buzz - https://medium.com/s/story/how-the-worlds-biggest-brewer-killed-the-craft-beer-buzz-e205a28ff632
+AI-Based Photo Restoration - https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7
+Designing Dark Mode - https://medium.com/microsoft-design/designing-dark-mode-31400530787a
+5 tips for growing your startup with no outside funding - https://medium.com/swlh/5-tips-for-growing-your-startup-with-no-outside-funding-33989e2be3d3
+Three Questions to Ask When Figuring Out Software Development Bottlenecks - https://medium.com/better-programming/three-questions-to-ask-when-figuring-out-software-development-bottlenecks-636b793a24f7
+The We Company: Winning and Losing in Real Estate and Tech - https://medium.com/the-green-light/the-we-company-winning-and-losing-in-real-estate-and-tech-d58dd421613a
+Artificial Intelligence, Consciousness and the Self  - https://medium.com/@subhashkak1/artificial-intelligence-and-consciousness-6b5ff2e5b5a
+The only introduction to Redux (and React-Redux) you’ll ever need - https://medium.com/@h.stevanoski/the-only-introduction-to-redux-and-react-redux-youll-ever-need-8ce5da9e53c6
+The Fourth Industrial Revolution: The Rise Of The Autonomous Economy - https://medium.com/altcoin-magazine/the-fourth-industrial-revolution-the-rise-of-the-autonomous-economy-cfe0886ad8b3
+5G Will Not Change the World - https://medium.com/predict/5g-will-not-change-the-world-bf902019cb60
+The future of credit cards - https://medium.com/@bensoppitt_92728/the-future-of-credit-cards-842214447832
+Why Model Explainability is The Next Data Science Superpower - https://towardsdatascience.com/why-model-explainability-is-the-next-data-science-superpower-b11b6102a5e0
+Amazon Is Becoming More Powerful Than You Realize - https://medium.com/s/2069/amazon-is-becoming-more-powerful-than-you-realize-2093d6860886
+Typescript in the real world — Why and how you should use it - https://medium.com/engineered-publicis-sapient/typescript-in-the-real-world-132d32a290db
+A Top Roboticist Says A.I. Will Not Conquer Humanity - https://medium.com/s/2069/a-top-roboticist-says-a-i-will-not-conquer-humanity-133f2611d035
+Big Data & Smart Cities: How can we prepare for them? - https://medium.com/dataseries/big-data-and-smart-cities-why-we-need-them-now-a194b2498fb1
+Getting Started with Augmented and Virtual Reality - https://towardsdatascience.com/getting-started-with-augmented-and-virtual-reality-a51446661c3
+DON’T BE A DICK….AND 10 OTHER THINGS I LEARNED ABOUT LEADERSHIP THE HARD WAY - https://medium.com/@jaltucher/dont-be-a-dick-and-10-other-things-i-learned-about-leadership-the-hard-way-922ac28ace34
+Estonia: a springboard for global startups and AI applications - https://towardsdatascience.com/estonia-a-springboard-for-global-startups-and-ai-applications-d4d66598656b
+Am I Good Enough? 391 Agents Say No - https://medium.com/the-mission/am-i-good-enough-391-agents-say-no-fbd830b578e1
+What love (and sex) really looks like in the 21st century. - https://medium.com/matter/everybody-sexts-4937de2bc1d7
+Neural Networks for Music Generation - https://towardsdatascience.com/neural-networks-for-music-generation-97c983b50204
+Artificial intelligence (AI) in banking: The double-edged sword - https://towardsdatascience.com/artificial-intelligence-ai-in-banking-the-double-edged-sword-276e3e6321ff
+Twitter Sentiment Analysis using fastText - https://towardsdatascience.com/twitter-sentiment-analysis-using-fasttext-9ccd04465597
+A “full-stack” data science project - https://towardsdatascience.com/a-full-stack-data-science-project-part-1-9f73a997dc4d
+Are Moon Colonies Possible — or the Fantasy of Billionaires? - https://onezero.medium.com/are-moon-colonies-possible-or-the-fantasy-of-billionaires-e2d5cace7249
+A World Without Cash: The Future of Money - https://medium.com/coinmonks/a-world-without-cash-the-future-of-money-ca12b31ae9bf
+How I got hired by Google, why I left, and why I chose to join OKCoin - https://medium.com/hackernoon/how-i-got-hired-by-google-why-i-left-and-why-i-chose-to-join-okcoin-7af99c1d9c4f
+The Drug Revolution That No One Can Stop - https://medium.com/matter/the-drug-revolution-that-no-one-can-stop-19f753fb15e0
+Amazon’s New AI Textract is Incredible - https://medium.com/artificial-intelligence-network/amazons-new-ai-textract-is-incredible-2b73f66ed325
+How ‘Digital Nomads’ Game the System to Work in Paradise - https://onezero.medium.com/how-digital-nomads-game-the-system-to-work-in-paradise-2453f59bb7c0
+7 Skills of Highly Effective Programmers - https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33
+Putting your computer to work, but not yourself - https://medium.com/hackernoon/putting-your-computer-to-work-but-not-yourself-2d28516db348
+Why you’re not a job-ready data scientist (yet) - https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012
+My Life Has Been Ruined by an Anti-Baldness Drug - https://elemental.medium.com/my-life-has-been-ruined-by-an-anti-baldness-propecia-finasteride-side-effects-ed8b2fcd1e90
+I Was a Cop for 18 Years. I Witnessed and Participated in Abuses of Power. - https://gen.medium.com/i-was-a-cop-for-18-years-i-witnessed-and-participated-in-abuses-of-power-8d057c18f9ee
+Advanced Topics in Deep Convolutional Neural Networks - https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d
+5 Soft Skills To Be A Successful Developer. - https://towardsdatascience.com/5-soft-skills-to-be-a-successful-developer-782486418b01
+Mastering Depression and Living the Life You Were Meant to Live - https://medium.com/the-mission/mastering-depression-and-living-the-life-you-were-meant-to-live-a9b4e357ddd9
+Setting up your Own Little Server at your Home - https://towardsdatascience.com/setting-up-your-own-little-server-at-your-home-5331a9e04ead
+Your Big Break Is Never Coming - https://medium.com/better-marketing/your-big-break-is-never-coming-do-this-instead-8157786cfe8e
+The Possibility of Interstellar Travel - https://medium.com/futuresin/the-possibility-of-interstellar-travel-fab617076731
+One Sentence Per Day Brought Me Back to Writing - https://writingcooperative.com/one-sentence-per-day-brought-me-back-to-writing-1bc1aa9e9789
+The Tesla bombshell almost nobody is talking about - https://medium.com/swlh/the-tesla-bombshell-almost-nobody-is-talking-about-robotaxis-930556d9f965
+I was married to a narcissist for 12 years — and I had NO idea - https://blog.usejournal.com/i-was-married-to-a-narcissist-for-12-years-and-i-had-no-idea-3398b7b15c45
+What Happened to Me After Giving Up Booze for a Year - https://medium.com/better-humans/what-happened-to-me-after-giving-up-booze-for-a-year-526e6236b2f2
+Google and OpenAI Help You See What Neural Networks See - https://towardsdatascience.com/google-and-openai-help-you-see-what-neural-networks-see-77ec5fd9564a
+Top 20 APIs You Should Know In AI and Machine Learning - https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3
+Self-Driving Cars Are Out. Micromobility Is In. - https://medium.com/s/story/self-driving-cars-will-always-be-limited-even-the-industry-leader-admits-it-c5fe5aa01699
+Apple Card Makes Credit Cool - https://onezero.medium.com/apple-card-makes-credit-cool-b2f6a003d866
+Generating Music With Artificial Intelligence - https://towardsdatascience.com/generating-music-with-artificial-intelligence-9ce3c9eef806
+What’s new in JavaScript: Google I/O 2019 Summary - https://itnext.io/whats-new-in-javascript-google-i-o-2019-summary-d16bd2308412
+IoT applications in agriculture: the potential of smart farming on the current stage - https://medium.com/datadriveninvestor/iot-applications-in-agriculture-the-potential-of-smart-farming-on-the-current-stage-275066f946d8
+Bioengineering the End Times - https://onezero.medium.com/bioengineering-the-end-times-95b648c49e76
+When Was The Last Time You Laughed? - https://medium.com/@krisgage/when-was-the-last-time-you-laughed-cc2dcdc0dc17
+What If Avoiding the Sun Is Bad for You? - https://elemental.medium.com/what-if-avoiding-the-sun-is-bad-for-you-4c21585180da
+9 Things You Should Work on in Your 20s If You Want to Be Successful - https://medium.com/better-marketing/want-to-be-successful-in-your-20s-do-these-9-things-3568d92090eb
+How to Handle Someone Else’s Anxiety or Panic Attacks - https://medium.com/@gtinari/how-to-handle-someone-elses-anxiety-or-panic-attacks-51ee63f5c23b
+How To Learn a New Programming Language Fast - https://medium.com/better-programming/how-to-learn-a-new-programming-language-fast-5fe269370210
+A Tariff Theory About Apple’s iOS 13 Surprise - https://onezero.medium.com/ios-13s-beta-split-is-down-to-trump-s-threatened-tariffs-not-missed-features-667ff8e41b0e
+Uber Design Platform - https://medium.com/uber-design/uber-design-platform-1ebff86c89e7
+Why Reddit Just Doesn’t Work Anymore - https://onezero.medium.com/losing-the-forest-to-the-trees-why-reddit-just-doesnt-work-anymore-69db707a7ca8
+What I Learned About Design from Travel in Japan - https://modus.medium.com/3-things-i-learnt-about-design-while-travelling-in-japan-ae564e03d93f
+30 Helpful Python Snippets That You Can Learn in 30 Seconds or Less - https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172
+Randomly wired neural networks and state-of-the-art accuracy? Yes, it works. - https://towardsdatascience.com/randomly-wired-neural-networks-and-state-of-the-art-accuracy-yes-it-works-9fb3cedc8059
+Internet Trends 2019 Mary Meeker Report - https://medium.com/utopiapress/internet-trends-2019-mary-meeker-report-bd70d202c845
+Top Neuroscientist Explains How Big Pharma’s Adderall Is Essentially Crystal Meth - https://medium.com/@DavidRainoshek/top-neuroscientist-explains-how-big-pharma-s-adderall-is-essentially-crystal-meth-1d56f83789d
+How to Be a Good Senior Developer - https://medium.com/better-programming/how-to-be-a-good-senior-developer-958948e02ada
+Why Slow Mornings May Be the Secret to Tech-Life Balance - https://elemental.medium.com/why-slow-mornings-may-be-the-secret-to-tech-life-balance-b44c2139963b
+Africa Is Building an A.I. Industry That Doesn’t Look Like Silicon Valley - https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d
+Tesla May Have Invented a Million-Mile Electric Car Battery - https://marker.medium.com/tesla-may-have-invented-a-million-mile-electric-car-battery-c3c11cc76d84
+Essential Math for Data Science - https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd
+Facebook’s Plan to Fuse Its Messaging Apps Is Not About Your Privacy - https://onezero.medium.com/facebooks-plan-to-fuse-its-messaging-apps-is-not-about-your-privacy-91c237e50c17
+Extreme Athleticism Is the New Midlife Crisis - https://elemental.medium.com/extreme-athleticism-is-the-new-midlife-crisis-d87199a18bed
+Building Dark Mode on Desktop - https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f
+27 Writing Conferences in October 2019 - https://curiosityneverkilledthewriter.com/27-writing-conferences-in-october-2019-564a123fa00e
+The Threat of Google’s DeepMind - https://medium.com/artificial-intelligence-network/the-threat-of-googles-deepmind-9fe9e556946a
+#MeToo Will Not Survive Unless We Recognize Toxic Femininity - https://medium.com/@mdaum213/metoo-will-not-survive-unless-we-recognize-toxic-femininity-6e82704ee616
+Five Python Tricks You Need to Know Today - https://towardsdatascience.com/five-python-tricks-you-need-to-learn-today-9dbe03c790ab
+Is WeWork a Fraud? - https://medium.com/@henry.hawksberry/is-we-work-a-fraud-5b78987d3e61
+This City Is A Multiracial Mecca - https://zora.medium.com/this-city-is-a-multiracial-mecca-9f1c466b27bb
+Four Ways to Know if You're a Great Software Engineer - https://medium.com/better-programming/4-tells-whether-youre-a-great-software-engineer-b0e496ed8f3b
+How I Lost My $50,000 Twitter Username - https://medium.com/@N/how-i-lost-my-50-000-twitter-username-24eb09e026dd
+How did I start with Data Science? - https://towardsdatascience.com/how-did-i-start-with-data-science-3f4de6b501b0
+Porn on Tumblr — a eulogy / love letter - https://medium.com/@vexashley/porn-on-tumblr-a-eulogy-love-letter-6d45e70fefff
+RIP Decentralization - https://medium.com/futuresin/rip-decentralization-ae2d13417da7
+Which Deep Learning Framework is Growing Fastest? - https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
+Controlling the Web with Python - https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
+7 Ways You’re Making Your Life Way Harder Than it Has to be - https://psiloveyou.xyz/7-ways-youre-making-your-life-way-harder-than-it-has-to-be-199f92cb399f
+The Math Behind that Dick Joke in HBO’s “Silicon Valley” - https://medium.com/cantors-paradise/the-math-behind-that-dick-joke-in-hbos-silicon-valley-3becdebe9118
+What Happened to Hadoop? What Should You Do Now? - https://towardsdatascience.com/what-happened-to-hadoop-what-should-you-do-now-2876f68dbd1d
+Everything You Need to Know About the Vegetarian Diet - https://medium.com/better-humans/everything-you-need-to-know-about-the-vegetarian-diet-c9214ff081d2
+Want to Learn Java Quickly? Burn All Your Java Tutorial Books - https://medium.com/javarevisited/want-to-learn-java-quickly-burn-all-your-java-tutorial-books-6d06f5d77e84
+My Startup Chose Not To Exploit Gig Economy Workers—Here’s Why - https://marker.medium.com/my-startup-couldve-exploited-gig-economy-workers-here-s-why-we-didn-t-a499e983a1c3
+How I got control of my spending with a couple no-code services and only 100 lines of Python code - https://medium.com/swlh/how-i-got-control-of-my-spending-with-a-couple-no-code-services-and-only-100-lines-of-python-code-36c8ac75f670
+How JavaScript Grew Up and Became a Real Language - https://medium.com/young-coder/how-javascript-grew-up-and-became-a-real-language-17a0b948b77f
+10 Life-Changing Habits You Can Form in 66 Days - https://forge.medium.com/10-life-changing-habits-you-can-form-within-66-days-cde61237577
+How JavaScript Grew Up and Became a Real Language - https://medium.com/young-coder/how-javascript-grew-up-and-became-a-real-language-17a0b948b77f
+Climate Winners And Losers — In Two Maps - https://medium.com/@indica/climate-winners-and-losers-in-two-maps-c89f17ef0a80
+Data Violence and How Bad Engineering Choices Can Damage Society - https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4
+In defence of boring UX - https://ux.shopify.com/in-defence-of-boring-ux-ad32acd4d437
+What Did California Just Do to the Gig Economy? - https://marker.medium.com/what-did-california-just-do-to-the-gig-economy-6a3a8b88ba76
+Using the DOM like a Pro - https://itnext.io/using-the-dom-like-a-pro-163a6c552eba
+WeWTF - https://medium.com/s/no-mercy-no-malice/wewtf-662e67d67ef6
+Technology Firms Vie for Billions in Data-Analytics Contracts - https://medium.com/@the_economist/technology-firms-vie-for-billions-in-data-analytics-contracts-edb6724050b1
+You Don’t Have A Time Management Problem — You Just Think You Do - https://medium.com/an-idea-for-you/you-dont-have-a-time-management-problem-you-just-think-you-do-ac8eb6952b06
+The Art of Being Black in White Spaces - https://humanparts.medium.com/the-art-of-being-black-in-white-spaces-32d6cf9a2aa3
+The Weirdest Shit to Come Out of Silicon Valley in August - https://thebolditalic.com/the-weirdest-shit-to-come-out-of-silicon-valley-in-august-f4c403624ca4
+Facebook Dating Is 10 Years Too Late - https://onezero.medium.com/facebook-dating-is-10-years-too-late-7d161521495c
+Top Signs of an Over-Experienced Programmer - https://medium.com/better-programming/top-signs-of-an-over-experienced-programmer-22bbe0b57663
+Pixar’s Rules of Storytelling Applied to Product Managers & UX Designers - https://medium.com/galvanize/pixars-rules-of-storytelling-applied-to-product-managers-ux-designers-420cec0a18a6
+The Day I Stopped Believing in American Democracy - https://humanparts.medium.com/the-day-i-stopped-believing-in-american-democracy-46d077e9336f
+What is Deep Learning and How Does it Work? - https://towardsdatascience.com/what-is-deep-learning-and-how-does-it-work-f7d02aa9d477
+There’s No Free Lunch With Climate Change - https://onezero.medium.com/theres-no-free-lunch-with-climate-change-4b9c1e095eaa
+Will Swift take over Python as the go to language for ML? - https://medium.com/dvt-engineering/will-swift-take-over-python-as-the-go-to-language-for-ml-ff9f8d9d7141
+The Daredevil Unicorns: Why WeWork, Juul, and Uber Play With Fire - https://marker.medium.com/daredevil-unicorns-why-juul-uber-and-other-companies-play-with-fire-6a844bd55d12
+Being ‘Indistractable’ Will Be the Skill of the Future - https://onezero.medium.com/being-indistractable-will-be-the-skill-of-the-future-a07780cf36f4
+Voice User Interfaces (VUI) — The Ultimate Designer’s Guide - https://medium.muz.li/voice-user-interfaces-vui-the-ultimate-designers-guide-8756cb2578a1
+Why Do People Film Others in Distress Instead of Helping Them? - https://onezero.medium.com/why-do-people-film-others-in-distress-instead-of-helping-them-e1c8687e0436
+6 Stages of Learning a New Programming Language - https://medium.com/better-programming/6-stages-of-learning-a-new-programming-language-64b7e5335fb5
+What Is Apple’s TV Plus Strategy? - https://onezero.medium.com/what-is-apples-tv-plus-strategy-d7c7bb10ea2f
+When SQL Isn’t the Right Answer - https://medium.com/better-programming/when-sql-isnt-the-right-answer-7d06902bc940 
+ Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node - https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada
+Uh-Oh: Silicon Valley Is Building a Chinese-Style Social Credit System - https://medium.com/fast-company/uh-oh-silicon-valley-is-building-a-chinese-style-social-credit-system-733b83c58247
+How to Get the Unquantifiable Benefits of Cold Showers - https://medium.com/better-humans/how-to-get-the-unquantifiable-benefits-of-cold-showers-7c2c86a9a9a2
+This Is How to Raise Your Testosterone Levels Naturally - https://medium.com/better-humans/this-is-how-to-raise-your-testosterone-levels-naturally-995daab1a944
+Welcome to the No-Code Software Revolution - https://medium.com/inc./welcome-to-the-no-code-software-revolution-6b75ee967df7
+Is TikTok a Time Bomb? - https://medium.com/fast-company/is-tiktok-a-time-bomb-cad748509941
+The Future of UX Research - https://medium.com/microsoft-design/the-future-of-ux-research-14fe63743c1d
+The Endgame for LinkedIn Is Coming - https://medium.com/@lancengym/the-endgame-for-linkedin-is-coming-31d4a8b2a76
+Predicting the Stock Market Is Easier Than You Think - https://medium.com/s/story/predicting-the-stock-market-is-easier-than-you-might-think-4f1e0bc05cfe
+How white space killed an enterprise app (and why data density matters) - https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a
+What are Eigenvalues and Eigenvectors? - https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
+Amazon Eats the World - https://medium.com/better-marketing/the-big-4-part-one-amazon-the-company-that-consumes-the-world-fb4679f10708
+Confessions of a U.S. Postal Worker: “We deliver Amazon packages until we drop dead.” - https://gen.medium.com/confessions-of-a-u-s-postal-worker-we-deliver-amazon-packages-until-we-drop-dead-a6e96f125126
+Tesla is Not “Sustainable”, or What People Get Wrong About Sustainability - https://medium.com/@jekatsos/tesla-is-not-sustainable-or-what-people-get-wrong-about-sustainability-4b63634c5272
+What Driving for Uber Revealed to Me About San Francisco - https://thebolditalic.com/what-driving-for-uber-revealed-to-me-about-san-francisco-897b2d7c9690
+What They Don’t Tell You About Elephant Sanctuaries in Thailand. - https://medium.com/@aydinadnan/what-they-dont-tell-you-about-elephant-sanctuaries-in-thailand-af3e4c9cb886
+The Complete Guide of SQL For Data Scientists - https://towardsdatascience.com/the-complete-guide-of-sql-for-data-scientists-902aaced94e4
+Front End Frameworks in 2019 - https://medium.com/@.gc/front-end-frameworks-in-2019-d853d15acec3
+A Disaster Is Unfolding in Consumer Tech - https://onezero.medium.com/the-galaxy-fold-disaster-is-worse-than-you-think-817730899f95
+Mental Models I Find Repeatedly Useful - https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
+How One Script Can Replace Your Whole Department. - https://medium.com/swlh/how-one-script-can-replace-your-whole-department-c447fbbbc9a3
+How to Tell If You Slept Well Last Night and What To Do If You Didn’t - https://medium.com/an-idea-for-you/how-to-tell-if-you-slept-well-last-night-and-what-to-do-if-you-didnt-e338553af778
+The Ten Greatest Rappers of All-Time (From a Purely Commercial Perspective) - https://medium.com/@bradcallas/the-ten-greatest-rappers-of-all-time-6a49efa4ac69
+The Disastrous Decline in Author Incomes Isn’t Just Amazon’s Fault - https://medium.com/electric-literature/the-disastrous-decline-in-author-incomes-isnt-just-amazon-s-fault-c58468492b17
+How I Accidentally Wound Up Running an Outlaw Biker Gang in Ohio - https://gen.medium.com/how-i-accidentally-wound-up-running-a-outlaw-biker-gang-in-ohio-47a44ac3b95a
+Uber has troves of data on how people navigate cities. Urban planners have begged, pleaded, and gone to court for access. Will they ever get it? - https://marker.medium.com/ubers-real-advantage-is-data-e54984ff524c
+What The Hell Are We Going To Do About The Boomers? - https://medium.com/@berniebleske/what-the-hell-are-we-going-to-do-about-the-boomers-2e1528728e1b
+The Rise and Fall of “Mentally Retarded” - https://medium.com/s/story/the-rise-and-fall-of-mentally-retarded-e3b9eea23018
+TEN THINGS EVERYONE GOT WRONG ABOUT DAVE CHAPPELLE’S “Sticks and Stones” SPECIAL. - https://medium.com/@jaltucher/ten-things-everyone-got-wrong-about-dave-chappelles-sticks-and-stones-special-b9a6b41a63e4
+How To Build a Minimum Viable Product Without Any Code - https://medium.com/@jproco/how-to-build-a-minimum-viable-product-without-any-code-606543452c85
+The Top Dating Apps of 2019 - https://psiloveyou.xyz/the-top-dating-apps-of-2019-146b5d83a4dd
+Safari Unchained - https://500ish.com/safari-unchained-6e5dc7bee91f
+The Secrets of Successful AI Startups. Who’s Making Money in AI? Part II - https://towardsdatascience.com/the-secrets-of-successful-ai-startups-whos-making-money-in-ai-part-ii-207fea92a8d5
+11 Tips for Improving Productivity using OneNote - https://medium.com/better-humans/10-tips-to-improve-productivity-using-onenote-85dee4a32cf2
+ReactiveConf 2019: Europe’s one-of-a-kind tech festival - https://blog.reactiveconf.com/reactiveconf-2019-europes-one-of-a-kind-tech-festival-59c11553df3c
+Is It Worse to Burn Oil or Turn It Into Plastic? - https://onezero.medium.com/is-it-worse-to-burn-oil-or-turn-it-into-plastic-2ca35ef0a8b1
+Why The Normalization of Stan Culture is Unhealthy - https://medium.com/@hanxine/why-the-normalization-of-stan-culture-is-unhealthy-b37fb8024346
+A Brief Guide to the End of the World - https://onezero.medium.com/a-brief-guide-to-the-end-of-the-world-e30a54d8988d
+16 Things Everybody Should Stop Doing In Order To Be Successful. - https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c
+How Agile Fails in Practice - https://blog.usejournal.com/how-agile-fails-in-practice-91b74e209a7
+This is The Only Viable Strategy to Build an Audience for Your Work - https://medium.com/the-mission/this-is-the-only-viable-strategy-to-build-an-audience-for-your-work-2595b571f5fb
+What Most Guys Don’t Understand About Why Women Don’t Date Nice Guys - https://medium.com/moments-of-passion/what-most-guys-dont-understand-about-why-women-don-t-date-nice-guys-235133a3da62
+This 88-Year-Old Grandmother Was an International Jewel Thief - https://zora.medium.com/this-88-year-old-grandmother-was-an-international-jewel-thief-52c073b9aa06
+The 3 Most Important Things To Know Before You Ever Consider Getting Married - https://blog.heartsupport.com/the-3-most-important-things-to-know-before-you-ever-consider-getting-married-539c9f33e77
+Does Marriage Even Make Sense Anymore? - https://medium.com/personal-growth/does-marriage-even-make-sense-anymore-70e10f4d8c18
+Are backticks (``) slower than other strings in JavaScript? - https://medium.com/javascript-in-plain-english/are-backticks-slower-than-other-strings-in-javascript-ce4abf9b9fa
+JavaScript Async/Await and Promises: Explained like you’re five years old. - https://medium.com/javascript-in-plain-english/javascript-async-await-and-promises-explained-like-youre-five-years-old-61733751e9a5
+A 5-Minute Ride Proves the Future of Air Travel Is Already Here - https://onezero.medium.com/a-5-minute-ride-proves-the-future-of-air-travel-is-already-here-f9df7713a4d9
+How to Build a Strong Morning Routine: The Essential Guide - https://medium.com/swlh/how-to-build-a-strong-morning-routine-the-essential-guide-2f8b50fc505
+8 Timeless Skills to Learn Now in Under 8 Hours to Change your Life Forever - https://medium.com/skilluped/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a
+The Top 10 Skills People Want to Learn in 2019 and How to Learn Them - https://medium.com/skilluped/the-top-10-skills-people-want-to-learn-in-2019-and-how-to-learn-them-a37ce262bcd2
+How To Make Six Figures from Writing in 12 Months - https://medium.com/better-marketing/how-to-make-six-figures-from-writing-in-12-months-6c534a432836
+The Difference Between Porn Blowjobs and Good Blowjobs - https://medium.com/sexography/the-difference-between-porn-blowjobs-and-good-blowjobs-4361f3a57dcd
+Signs They’re Attracted To You - https://medium.com/@krisgage/signs-theyre-attracted-to-you-8cdd47019f14
+How Much Do Data Scientists Make? - https://towardsdatascience.com/how-much-do-data-scientists-make-cbd7ec2b458
+How To Dress Like A Man - https://medium.com/@JohnLeFevre/how-to-dress-like-a-man-2018-edition-bbc904edd46a
+Meet the Woman Who’s Created the 21st Century Finance Model for Emerging Technologies - https://medium.com/the-internet-of-women/meet-the-woman-whos-created-the-21st-century-finance-model-for-emerging-technologies-6eb242b41f9c
+An introduction to SOLID, Tim Berners-Lee’s new, re-decentralized Web - https://medium.com/free-code-camp/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b
+A Woman’s Guide to Casual Sex - https://medium.com/s/can-we-talk/casual-sex-let-the-games-begin-63f6d84bec7a
+The Science of Reading Before Bed - https://medium.com/the-partnered-pen/the-science-of-reading-before-bed-f5f6f37081b6
+Google’s Most Interesting I/O Announcements, Ranked - https://onezero.medium.com/googles-most-interesting-i-o-announcements-ranked-cabd3ff4fc8c
+How I started learning to code: the resources I’ve used in the first three months - https://medium.com/@bretcameron/learning-to-code-in-2019-the-first-3-months-b3c843204bb7
+What I learned from reading 50 books in a year - https://blog.usejournal.com/what-i-learned-from-reading-50-books-in-a-year-800ead701432
+How To Read Productively To Learn Faster - https://medium.com/better-humans/how-to-read-productively-to-learn-faster-5b0752e95d7e

@@ -447,3 +447,197 @@ Google’s Most Interesting I/O Announcements, Ranked - https://onezero.medium.c
 How I started learning to code: the resources I’ve used in the first three months - https://medium.com/@bretcameron/learning-to-code-in-2019-the-first-3-months-b3c843204bb7
 What I learned from reading 50 books in a year - https://blog.usejournal.com/what-i-learned-from-reading-50-books-in-a-year-800ead701432
 How To Read Productively To Learn Faster - https://medium.com/better-humans/how-to-read-productively-to-learn-faster-5b0752e95d7e
+Google Certified Associate Android Developer: Tips, FAQs & my journey - https://medium.com/free-code-camp/google-certified-associate-android-developer-my-journey-381a8e514f3a
+Presenting: Fluidbox - https://medium.com/coding-design/presenting-fluidbox-9c7fe9db92c7
+Why is it so hard to find a good front end developer? - https://medium.com/creative-business/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f
+Why I work remotely (hint: it has nothing to do with productivity). - https://medium.com/signal-v-noise/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc
+Reactions: Not everything in life is Likable - https://medium.com/facebook-design/reactions-not-everything-in-life-is-likable-5c403de72a3f
+To Men I Love, About Men Who Scare Me - https://byrslf.co/to-men-i-love-about-men-who-scare-me-dd816cd02e33
+Dear Tim Cook, - https://the-ipad-artist.com/dear-tim-cook-abc3fbffba1b
+No alcohol, no coffee for 27 months. This is what happened. - https://medium.com/desk-of-van-schneider/no-alcohol-no-coffee-for-15-months-this-is-what-happened-1a2d052be9e7
+Building A New Social App Today is Insane - https://medium.com/@mhkt/building-a-new-social-app-today-is-insane-b5fe7b81e76
+Does depression drive creativity? The myth of the struggling artist & how Stefan Sagmeister stays creative. - https://medium.com/desk-of-van-schneider/does-depression-drive-creativity-132f3e12bd79
+Printing Medium stories - https://medium.design/printing-medium-stories-89f381b903c9
+Airtel is sniffing and censoring CloudFlare’s traffic in India and CloudFlare doesn’t even know it. - https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98
+An honest guide to the San Francisco startup life - https://medium.com/padlet-ink/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689
+5 Actual Web Designs Trends for 2016 - https://medium.com/apegroup-texts/5-actual-web-designs-trends-for-2016-f9504223c9b3
+An open letter to design students - https://medium.com/this-also/an-open-letter-to-design-students-e1518c8d7f3b
+Making a case for letter case - https://medium.com/@jsaito/making-a-case-for-letter-case-19d09f653c98
+How it feels to learn JavaScript in 2016 - https://medium.com/hackernoon/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
+“OMG, Java is so verbose, guys”. - https://medium.com/hackernoon/omg-java-is-so-verbose-guys-dca93fec9e03
+Did Snapchat succeed because of its controversial UI? - https://medium.com/figma-design/designers-weigh-in-did-snapchat-succeed-because-of-its-controversial-ui-17eab17647d8
+Why we only work 4 days a week during summer - https://medium.com/signal-v-noise/why-we-only-work-4-days-a-week-during-summer-d69631b0b8fc
+Letter to a Junior Designer - https://builttoadapt.io/letter-to-a-junior-designer-e96659725678
+Evolving the Facebook News Feed to Serve You Better - https://medium.com/facebook-design/evolving-the-facebook-news-feed-to-serve-you-better-f844a5cb903d
+These photos are why I’m trapped in Tokyo forever now - https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5
+Confessions of an Insecure Entrepreneur - https://medium.com/@gbaheti/confessions-of-an-insecure-entrepreneur-802926b4b39c
+Internet banking UX is terrible - https://startupsventurecapital.com/internet-banking-sucks-ca6873c7e905
+Your logo is copied - https://medium.com/@fvo/your-logo-is-copied-710ac4604258
+How I battle discouragement - https://medium.com/views-from-the-treehouse/how-i-battle-discouragement-e5b34850188e
+One Year Designing at WhatsApp - https://medium.com/facebook-design/one-year-designing-at-whatsapp-c20b4c46bae6
+How we adapted the Booking.com mobile site for the iPhone X notch. - https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989
+Postmortem: Every Frame a Painting - https://medium.com/@tonyszhou/postmortem-1b338537fabc
+Building my First Chatbot from Start to Finish in Three Weeks- https://chatbotsmagazine.com/building-my-first-chatbot-from-start-to-finish-in-three-weeks-936e3cb0a4a5
+600 Startups Hiring Remotely in 2018 - https://medium.com/@rdutel/600-startups-hiring-remotely-in-2018-a5c9e9c558f6
+Thoughts after taking the Deeplearning.ai courses - https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
+Goodbye Instagram, hello Ello - https://medium.com/swlh/goodbye-instagram-hello-ello-45df3d8754ec
+Writing Modular JavaScript — Pt 1 - https://medium.com/@jrschwane/writing-modular-javascript-pt-1-b42a3bd23685
+Writing Modular JavaScript — Pt 2 - https://medium.com/@jrschwane/writing-modular-javascript-pt-2-d7140d15c982
+Writing Modular JavaScript — Pt 3 - https://medium.com/@jrschwane/writing-modular-javascript-pt-3-d6db23330641
+A complete idiot’s guide to Clean Architecture - https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f
+Riddling your way to master RxJava - https://medium.com/@vanniktech/riddling-your-way-to-master-rxjava-145d5de99b55
+The power of doing nothing at all - https://medium.com/swlh/the-power-of-doing-nothing-at-all-73eeea488b8b
+Goodbye, Object-Oriented Programming - https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
+I’m a boring programmer (and proud of it) - https://medium.com/signal-v-noise/i-m-a-boring-programmer-and-proud-of-it-d4ac3dd2defe
+Restitching Plaid - https://medium.com/@crafty/restitching-plaid-9ca5588d3b0a
+How to know cool things - https://blog.usejournal.com/how-to-know-cool-things-3477c716576
+Introducing MvRx: Android on Autopilot - https://medium.com/airbnb-engineering/introducing-mvrx-android-on-autopilot-552bca86bd0a
+Dark Mode, Data, a brand new look and more in Sketch 52. - https://blog.sketchapp.com/dark-mode-data-a-brand-new-look-and-more-in-sketch-52-e462c8a64d00
+Deploying a Node.js Twitter Bot on AWS Lambda using Webpack - https://medium.com/hackernoon/deploying-a-node-js-twitter-bot-on-aws-lambda-using-webpack-df6e2e187a78
+Night Mode ++ - https://medium.com/@wdziemia/night-mode-79723ced5d14
+I fucking love meat: why I’m not a vegan - https://medium.com/the-ascent/i-fucking-love-meat-why-im-not-a-vegan-b34ef411b585
+Your first developer job hunt: it sucks and you’re not alone. — Part 1 - https://medium.com/@tuni_tech/your-first-developer-job-hunt-it-sucks-and-youre-not-alone-part-1-13c5a28942f8
+What does Unsplash cost in 2019? - https://medium.com/unsplash/what-does-unsplash-cost-in-2019-f499620a14d0
+Prateek Kuhad is a vibe - https://medium.com/@meghna_roy_/prateek-kuhad-is-a-vibe-7912d5008ea8
+When a rewrite isn’t: rebuilding Slack on the desktop - https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4
+Monorepos. Let’s talk about it. - https://bytes.swiggy.com/monorepos-lets-talk-about-it-4b1b7d4f1038
+Scheduling jobs with crontab on macOS - https://medium.com/@Ratik96/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30
+Zoho launches Catalyst, a new developer platform with a focus on microservices - https://techcrunch.com/2019/10/16/zoho-launches-catalyst-a-new-developer-platform-with-a-focus-on-microservices/
+How to Become a Market Leader in 10 Years - https://doist.com/blog/how-to-become-a-market-leader-in-10-years/
+Managing Remote Employees: Best Practices from Doist’s Head of Marketing - https://doist.com/blog/best-practices-managing-remote-employees/
+How To Make Music A Useful Part Of Your Life Again - https://medium.com/better-humans/how-to-make-music-a-useful-part-of-your-life-again-e65ec72a27b9
+127 Helpful JavaScript Snippets You Can Learn in 30 Seconds or Less — Part 2 of 6 - https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-2-of-6-6d3871a602eb
+Why Can’t We Stop Instagramming Our Books? - https://gen.medium.com/why-cant-we-stop-instagramming-our-books-565b684dbda0
+Speak Love, Not English: What BTS and My Sister Showed Me About the Universality of Music - https://medium.com/@valonearenhern/speak-love-not-english-what-bts-and-my-sister-showed-me-about-the-universality-of-music-cff50bff7ef4
+CPEC is dead. Somebody tell Beijing. - https://medium.com/@farooqtirmizi/cpec-is-dead-somebody-tell-beijing-9e18a891ff0b
+Men Cause 100% of Unwanted Pregnancies - https://humanparts.medium.com/men-cause-100-of-unwanted-pregnancies-eb0e8288a7e5
+How Radioactive Poison Became the Assassin’s Weapon of Choice - https://medium.com/matter/how-radioactive-poison-became-the-assassins-weapon-of-choice-6cfeae2f4b53
+A New Wave of Rap is Coming. Here’s Why. - https://medium.com/@brendonspencer/a-new-wave-of-rap-is-coming-heres-why-6060fdd69a3e
+The things your partner should never hesitate to do - https://medium.com/lady-vivra/things-your-partner-should-never-hesitate-to-do-d1111a13e9cd
+Streaming Music is Ripping You Off - https://medium.com/cuepoint/streaming-music-is-ripping-you-off-61dc501e7f94
+What I Learned From Losing $100,000 on Two Failed Startups - https://marker.medium.com/what-i-learned-from-losing-100-000-on-two-failed-startups-b3cb73fc99ab
+Photos: Rave culture’s golden era was all about ‘Peace, Love, Unity, Respect’ - https://timeline.com/edm-rave-culture-history-ae647e587a13
+Music Genre Classification with Python - https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
+7 important lessons about programming that I’ve learned at 17 - https://medium.com/free-code-camp/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686
+Computer Files Are Going Extinct - https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506
+Power Ranking Hip-Hop’s Defining Generations - https://medium.com/@bradcallas/power-ranking-hip-hops-defining-generations-59fd6739caab
+The 15 Best Lil Wayne Features, Ranked - https://medium.com/@bradcallas/the-15-best-lil-wayne-features-ranked-13b39bd287f1
+How Pinterest Built One of Silicon Valley’s Most Successful Algorithms - https://onezero.medium.com/how-pinterest-built-one-of-silicon-valleys-most-successful-algorithms-9101afdfd0dd
+How to write Web apps using simple Python for Data Scientists? - https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582
+The Meaning of Life Is Absurd - https://humanparts.medium.com/the-meaning-of-life-is-absurd-ecd870bfa3e6
+Tips for Writing Self-Documenting Code - https://itnext.io/tips-for-writing-self-documenting-code-e54a15e9de2
+How to Disarm Internal Triggers of Distractions - https://medium.com/better-humans/how-to-disarm-internal-triggers-of-distractions-eaac1508411f
+What Really Happens When You Become an Overnight Millionaire? - https://marker.medium.com/what-really-happens-when-you-become-an-overnight-millionaire-acac42990175
+Neo Is the Most Exciting Laptop Since Microsoft Tried the Same Thing Back in 2009 - https://onezero.medium.com/neo-is-the-most-exciting-laptop-since-microsoft-tried-the-same-thing-back-in-2009-6f72d08fc69a
+Google’s Most Interesting Hardware Announcements, Ranked - https://onezero.medium.com/googles-most-interesting-hardware-announcements-ranked-16c77efa37d2
+How To Wake Up at 5 A.M. Every Day - https://medium.com/better-humans/how-to-wake-up-at-5-a-m-every-day-ceb02e29c802
+So You Want To Know The Cause of Avicii’s Death? - https://medium.com/@bareivy/so-you-want-to-know-the-cause-of-aviciis-death-a4fcf62e6e2f
+13 tips to extend the lifespan of your phone battery - https://medium.com/@lauren.c.stephen/13-tips-to-extend-the-lifespan-of-your-phone-battery-16c2af5ca59f
+Leak of Microsoft Salaries Shows Fight for Higher Compensation - https://onezero.medium.com/leak-of-microsoft-salaries-shows-fight-for-higher-compensation-3010c589b41e
+Honest Thoughts From a Veteran About Gun Control and Mental Health - https://humanparts.medium.com/honest-thoughts-from-a-veteran-about-gun-control-and-mental-health-c74930488e28
+How the App Store Ended a Golden Era of Software - https://onezero.medium.com/how-the-app-store-ended-a-golden-era-of-software-e7b3217de2f2
+Benchmarking the Raspberry Pi 4 - https://medium.com/@ghalfacree/benchmarking-the-raspberry-pi-4-73e5afbcd54b
+How to Learn Data Science for Free - https://towardsdatascience.com/how-to-learn-data-science-for-free-eda10f04d083
+The F-35 Is a $1.4 Trillion National Disaster - https://medium.com/war-is-boring/the-f-35-is-a-terrible-fighter-bomber-and-attacker-and-unfit-for-aircraft-carriers-c6e36763574b
+26 Literary Magazines That Pay $100 or More - https://curiosityneverkilledthewriter.com/26-literary-magazines-that-pay-100-or-more-508ad2866038
+A.I. Isn’t as Advanced as You Think - https://onezero.medium.com/a-i-isnt-as-advanced-as-you-think-eeeaf4b085cf
+Beginner’s Guide to Streaming on Twitch - https://medium.com/@charliedeets/beginners-guide-to-streaming-on-twitch-dc2a7108fbd7
+Declining Audio Quality In Music - https://medium.com/mark-starlin-writes/declining-audio-quality-in-music-a34675ca694
+Accessing Google Spreadsheet Data using Python - https://towardsdatascience.com/accessing-google-spreadsheet-data-using-python-90a5bc214fd2
+The 15 Best J. Cole Songs - https://medium.com/@bradcallas/the-15-best-j-cole-songs-5397db92b7ca
+Only God Is an Atheist - https://humanparts.medium.com/onlygodisanatheist-70dbe5f2a6de
+Why The Guardian Switched From MongoDB to PostgreSQL - https://medium.com/better-programming/why-the-guardian-switched-from-mongodb-to-postgresql-861b6cf01e1f
+Slack and the Decline of Bots - https://onezero.medium.com/slack-and-the-decline-of-bots-34119c6698b4
+The Art of Listening to Your Higher Self - https://humanparts.medium.com/the-art-of-listening-to-your-higher-self-293719afd8fb
+Body Positivity Is Lost on YouTube - https://elemental.medium.com/body-positivity-is-lost-on-youtube-230fa6650849
+Americans Created the Supermarket. We Also Might Destroy It. - https://gen.medium.com/the-american-consumer-created-the-supermarket-we-also-might-destroy-it-f6095dbdca78
+To Be Happier at Work, Find Your ‘Window of Tolerance’ - https://forge.medium.com/to-be-happier-at-work-find-your-window-of-tolerance-b0ee03a8810d
+The Quest to Become Perfect Parents Is Making Us Bad Parents - https://forge.medium.com/exhausted-parental-burnout-could-affect-the-health-of-your-child-too-86ed2375b972
+Please, Just Call Me Fat - https://humanparts.medium.com/whos-hurt-by-being-called-fat-551930bc6989
+How to Design ASMR-Inspired Experiences - https://modus.medium.com/what-is-asmr-and-should-your-cx-team-care-c7e323cd4718
+Gay Expectations - https://humanparts.medium.com/gay-expectations-33a3f70480c3
+I Felt Conflicted About Hiring a Cleaning Lady - https://zora.medium.com/the-cleaning-women-8e6663c0351d
+Moisturizers Don’t Work for Everyone - https://elemental.medium.com/moisturizers-dont-work-for-everyone-45188b63dbf9
+The Questions No One Asks When You Move 3,000 Miles Across the Country - https://humanparts.medium.com/the-questions-no-one-asks-when-you-move-3-000-miles-across-the-country-2c856eac5924
+Here’s a Simple Way to Hold Your Team Accountable - https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d
+‘Silent Miscarriages’ Are Linked to Air Pollution - https://onezero.medium.com/silent-miscarriages-are-linked-to-air-pollution-dab4dc27506d
+Why Does Your Brain Think Influencers Are Your Friends? - https://onezero.medium.com/why-does-your-brain-think-influencers-are-your-friends-68bf56f7d38a
+This Is Your Brain on Improv - https://forge.medium.com/this-is-your-brain-on-improv-df6a64fd53ae
+Synthetic Psychedelics May Soon Replace Your Shrooms - https://onezero.medium.com/synthetic-psychedelics-may-soon-replace-your-shrooms-25f8a075fe8f
+Doom and Bloom: The Growing Millennial Obsession with Houseplants - https://elemental.medium.com/doom-and-bloom-the-growing-millennial-obsession-with-houseplants-ccaae50f11d3
+How to Think Without Googling - https://forge.medium.com/how-to-think-without-the-internet-again-308da944139d
+Tech Companies Need to End the ‘Friendship Tax’ - https://onezero.medium.com/tech-companies-need-to-end-the-friendship-tax-ed48b83d6d8d
+Do We Give the Patriarchy More Power Than It Really Has? - https://gen.medium.com/do-we-give-the-patriarchy-more-power-than-it-really-has-9348200597fd
+My Relentless Search to Find My Family’s African American ‘Eve’ - https://zora.medium.com/my-relentless-search-to-find-my-familys-african-american-eve-2e5b40aeb0b8
+Painful Sex Is More Common Than You Think. Is There a Fix? - https://elemental.medium.com/painful-sex-is-more-common-than-you-think-is-there-a-fix-479afe5aa513
+Sex Workers’ Rights Are Officially a Mainstream Political Issue - https://gen.medium.com/sex-workers-rights-are-officially-a-mainstream-political-issue-3129329c21d0
+How We Got From Wall Street’s Big Swinging Dicks to Silicon Valley’s Big Swinging Brains - https://onezero.medium.com/how-we-got-from-wall-streets-big-swinging-dicks-to-silicon-valley-s-big-swinging-brains-593418f82b2f
+Why Are There So Few Women in Design Leadership? - https://modus.medium.com/why-are-there-so-few-women-in-design-leadership-71eb3bfb3dd3
+How to Hack a Keurig — and Make Better Coffee at Home - https://heated.medium.com/how-to-hack-a-keurig-and-make-better-coffee-at-home-87317f847edb
+The Power of Bedside Manner on Pain - https://elemental.medium.com/the-power-of-bedside-manner-on-pain-964bcc5bc1b1
+Why We Should Play at Work - https://modus.medium.com/why-play-matters-1be75e4ab77b
+How to Be a Wise Rebel - https://humanparts.medium.com/how-to-be-a-wise-rebel-66982e362bd6
+Mars Is the New ‘New World’ - https://onezero.medium.com/mars-is-the-new-new-world-e4c46e4c2a0b
+Thankfully, Life Is Full of Problems - https://humanparts.medium.com/thankfully-life-is-full-of-problems-35890975437a
+What to Know About Men, Marijuana, and Miscarriage - https://elemental.medium.com/what-to-know-about-men-marijuana-and-miscarriage-6c7f59dd321c
+Scientists Grew a Mouse Fetus Without Sperm or Eggs - https://onezero.medium.com/scientists-grew-a-mouse-fetus-without-sperm-or-eggs-51180f11f504
+Would You Ever Give Up Your Whiteness? - https://humanparts.medium.com/would-you-ever-give-up-your-whiteness-8d48cd56584f
+The Tools to Defeat Facial Recognition Are Free Online - https://onezero.medium.com/the-tools-to-defeat-facial-recognition-are-free-online-a48a36e90c91
+How to Change a Mind - https://forge.medium.com/how-to-change-a-mind-1774681b9369
+3 Foods You Should Throw Away Forever. - https://blog.usejournal.com/3-foods-you-should-throw-away-forever-3eb7b5f38075
+The Science of “Sleeping on It” - https://elemental.medium.com/got-a-problem-to-solve-sleep-on-it-330ff29c484c
+It’s Okay to Have Multiple Identities - https://forge.medium.com/its-okay-to-have-multiple-identities-e417f334da5c
+Encapsulation in JavaScript - https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+How To Develop Your Writing Voice - https://medium.com/swlh/how-to-develop-your-writing-voice-c5cb284d9623
+Peaks.js — Interact With Audio Waveforms - https://medium.com/better-programming/peaks-js-interact-with-audio-waveforms-b7cb5bd3939a
+How Machines Understand Text - https://towardsdatascience.com/how-machines-understand-text-994cf4ca9f49
+Beginning your Web Development Journey? Start Here. - https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762
+To Be More Productive, Hack Your Sense of Time - https://forge.medium.com/to-be-more-productive-hack-your-sense-of-time-3c2b1e6addc7
+Open-sourcing Polynote: an IDE-inspired polyglot notebook - https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447
+There’s Finally a Decent Smartwatch for Android - https://onezero.medium.com/theres-finally-a-decent-smartwatch-for-android-b8f4c5c79e36
+7 Essential Books for Programmers - https://medium.com/better-programming/7-essential-books-for-programmers-869bca83b360
+21 Hidden iOS 13 Features You’ll Want to Try - https://medium.com/pcmag-access/21-hidden-ios-13-features-youll-want-to-try-22791a77eea5
+What is Component-Oriented Programming (COP)? - https://medium.com/better-programming/what-is-component-oriented-programming-cop-10b32ae1fa1c
+How To Handle Other People’s Bad Moods Like a Pro - https://medium.com/better-marketing/how-to-handle-other-peoples-bad-moods-like-a-pro-d004a7b2bc93
+Why I’m Obsessed With Other Women’s Inner Thighs - https://psiloveyou.xyz/why-im-obsessed-with-other-women-s-inner-thighs-cc3c56c4b1de
+Speaking Truth to Power: Reflections on My Career at Microsoft - https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36
+Data Science’s Most Misunderstood Hero - https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40
+The Human Cost of Your Smartphone - https://onezero.medium.com/the-human-cost-of-your-smartphone-d583a2b6f356
+Animals Bow to Their Mechanical Overlords - https://medium.com/nautilus-magazine/animals-bow-to-their-mechanical-overlords-61b36d68efdc
+Harnessing the Power of Brain Waves in Virtual Reality: Applications for Gaming and Medicine - https://medium.com/neurotech-berkeley/harnessing-the-power-of-brain-waves-in-virtual-reality-applications-for-gaming-and-medicine-ea307a19c8db
+Innovation: Developing the process of the non-soul - https://medium.com/@troyginsberg/innovation-developing-the-process-of-the-non-soul-a0e7daa56c39
+What can we do with a Quantum Computer? — Gadget For Today - https://medium.com/@davidmukul/what-can-we-do-with-a-quantum-computer-gadget-for-today-d96eb5b74c40
+How TV Became Tech’s Favorite Vanity Project - https://onezero.medium.com/how-tv-became-techs-favorite-vanity-project-1ec15105dcc0
+How to Use Optical Character Recognition for Security System Development - https://towardsdatascience.com/how-to-use-optical-character-recognition-for-security-system-development-9dc57258afa3
+What Does Google’s Quantum Supremacy Achievement Mean? - https://medium.com/@sarveshmathi/what-does-googles-quantum-supremacy-achievement-mean-f4102400e4a7
+Getting Cash for Our Data Could Actually Make Things Worse - https://onezero.medium.com/getting-cash-for-our-data-could-actually-make-things-worse-3793c52ec7e5
+SpaceX’s Satellite Internet Plans for Mid-2020 Launch in the US - https://medium.com/pcmag-access/spacexs-satellite-internet-plans-for-mid-2020-launch-in-the-us-9466a6a8e53c
+How To Radically Change Your Phone to Reclaim Your Attention - https://medium.com/better-humans/how-to-radically-change-your-phone-to-reclaim-your-attention-1db7147bbbae
+Google Formally Claims to Have Achieved Quantum Supremacy - https://medium.com/extremetech-access/google-formally-claims-to-have-achieved-quantum-supremacy-f237094e752f
+Thanks to 50 Cent and the gym, I’ve learned to love my scars - https://metro.co.uk/2019/10/20/50-cent-gave-me-the-confidence-to-bare-my-scars-and-exercise-again-10936260/
+Coding Salaries in 2019: Updating the Stack Overflow Salary Calculator - https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/?cb=1
+Feelings That Are Easily Mistaken For Love - https://psiloveyou.xyz/what-if-i-told-you-youre-not-in-love-f6e3007a1ef2
+Take action and stay up-to-date with dynamic email in Gmail - https://www.blog.google/products/gmail/take-action-and-stay-up-to-date-with-dynamic-email-in-gmail/
+DeepMind’s StarCraft Bot Has a 191-Year Head Start on Humanity - https://onezero.medium.com/deepminds-starcraft-bot-has-a-191-year-head-start-on-humanity-4590032b23ab
+Why Don’t We Know How to Protect Our Time? - https://forge.medium.com/why-dont-we-know-how-to-protect-our-time-a88859deea2e
+Spying on Kids to Prevent School Shootings Will Backfire - https://gen.medium.com/policing-students-texts-is-a-great-way-to-destroy-all-trust-2aedeac44411
+The fallacy of easy - https://uxdesign.cc/the-fallacy-of-easy-a89ef864759b
+The real difference between ’single quotes’ and “double quotes” in JavaScript - https://medium.com/javascript-in-plain-english/the-real-difference-between-single-quotes-and-double-quotes-in-javascript-3d00bf720bcd
+How to Fix the Most Annoying Things in Windows 10 - https://medium.com/pcmag-access/how-to-fix-the-most-annoying-things-in-windows-10-8f4fa15259d0
+iPad OS: redesigning Siri and multitasking on the iPad Pro on the horizon of the Apple event - https://uxdesign.cc/ipad-os-redesigning-siri-and-multitasking-on-the-ipad-pro-in-the-wake-of-the-apple-event-445ac9bacb54
+It’s Time To Get Real About Power in Silicon Valley - https://medium.com/the-mission/its-time-to-get-real-about-power-in-silicon-valley-b59b4772138d
+Feelings That Are Easily Mistaken For Love - https://psiloveyou.xyz/what-if-i-told-you-youre-not-in-love-f6e3007a1ef2
+Making Facebook’s Workplace work at your place - https://www.cio.com.au/article/664020/making-facebook-workplace-work-your-place/
+Power Laws: How Nonlinear Relationships Amplify Results - https://fs.blog/2017/11/power-laws/
+Breaking Down the Diversity in Kendrick Lamar’s Voice - https://www.okayplayer.com/music/kendrick-lamar-breaking-down-characters-in-voices.html
+Uber’s $82 billion valuation underwhelms in most-anticipated IPO since Facebook - https://venturebeat.com/2019/05/10/ubers-82-billion-valuation-underwhelms-in-most-anticipated-ipo-since-facebook/
+These top 25 small-caps rally 26-48% this week as bulls continue Diwali celebration in Samvat 2076 - https://www.moneycontrol.com/news/business/markets/these-top-25-small-caps-rally-26-48-this-week-as-bulls-continue-diwali-celebration-in-samvat-2076-4596421.html
+What is Pegasus, the chosen tool for ‘total surveillance’? - https://www.livemint.com/technology/tech-news/what-is-pegasus-the-chosen-tool-for-total-surveillance-11572578636720.html
+How Postgres Unique Constraints Can Cause Deadlock - https://rcoh.me/posts/postgres-unique-constraints-deadlock/
+Why you can have millions of Goroutines but only thousands of Java Threads - https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/
+Dropout and the Deep Complexity of Neural Networks - https://rcoh.me/posts/dropout-deep-complexity/
+Thoughts on Rust, a few thousand lines in - https://rcoh.me/posts/thoughts-on-rust-a-few-thousand-lines-in/
+How to Code Review - https://rcoh.me/posts/how-to-code-review/
+The sneaky power of Travis Scott’s voice - https://www.thefader.com/2018/08/08/travis-scotts-astroworld-real-voice
+What is Pegasus, the chosen tool for ‘total surveillance’? - https://www.livemint.com/technology/tech-news/what-is-pegasus-the-chosen-tool-for-total-surveillance-11572578636720.html
+Any relief package to telcos will go against Supreme Court verdict, says Jio - https://www.livemint.com/industry/telecom/any-relief-package-to-telcos-will-go-against-supreme-court-verdict-says-jio-11572781648226.html
